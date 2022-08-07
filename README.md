@@ -1,6 +1,6 @@
-[anon;codetheme](https://user-images.githubusercontent.com/110787004/183310603-52b69a12-97ca-4df5-8e34-69769f8400ee.png)
+![anon;codetheme](https://user-images.githubusercontent.com/110787004/183310673-ae809f20-a9bb-430d-bf13-6fd7081d1cf0.png)
 
-# AnonymousCodeTheme!
+# AnonymousCodeTheme
 
 Close the loop. Hack into God.
 This is a BetterDiscord theme based off the visual novel Anonymous;Code. In order to use this theme, you must install BetterDiscord. 
