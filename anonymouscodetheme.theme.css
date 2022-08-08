@@ -7,13 +7,11 @@
 * @updateUrl https://raw.githubusercontent.com/memeinat0r/AnonymousCodeTheme/main/anonymouscodetheme.theme.css
 */
 
-@import url(https://raw.githubusercontent.com/memeinat0r/NotAnotherAnimeTheme/master/build/v3/naat.v3.css)
-
 /* Special thanks to puckzxz#2080 for making the NotAnotherAnimeTheme! */
 
 /* Any images you use MUST end with .jpg or .png or any other image extension */
 
-;root {
+:root {
   /*
     Theme Background
   */
@@ -27,7 +25,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(43, 43, 44, 0.8);
+  --theme-transparency: rgba(38, 38, 41, 0.774);
 
   /*
     Home Icon Image
