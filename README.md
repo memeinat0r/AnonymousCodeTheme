@@ -11,6 +11,6 @@ You can also find it by going to User Settings in Discord > Themes > Open Theme 
 
 Go into User Settings > Themes > and select Anonymous;Code.
 
-Special thanks to puckzxz#2080 for making the NotAnotherAnimeTheme!
+NOTICE: THIS THIS ONLY WORKS WITH THE NotAnotherAnimeTheme!!! YOU CAN FIND THE THEME HERE https://betterdiscord.app/theme/NotAnotherAnimeTheme
 
-PowerCord support coming soon.
+Special thanks to puckzxz#2080 for making the NotAnotherAnimeTheme!
