@@ -14,3 +14,5 @@ Go into User Settings > Themes > and select Anonymous;Code.
 NOTICE: THIS THIS ONLY WORKS WITH THE NotAnotherAnimeTheme!!! YOU CAN FIND THE THEME HERE https://betterdiscord.app/theme/NotAnotherAnimeTheme
 
 Special thanks to puckzxz#2080 for making the NotAnotherAnimeTheme!
+
+(This theme is still in active development.)
